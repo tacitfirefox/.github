@@ -15,7 +15,6 @@ Desktop.ini
 # Editor files
 *.swp
 *.swo
-*~
 .vscode/
 .idea/
 *.sublime-project
