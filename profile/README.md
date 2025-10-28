@@ -1,17 +1,29 @@
-# tacitfirefox (he/him/his) 👋
-Ann Arbor, MI  
-Let's build something clever. Or artsy. Ooh, both!
+# hi, i'm tacitfirefox (he/him/his) 👋
 
-## about me 
-I’m a software engineer with roots in C++ game development and a long career in .NET/C#. I enjoy writing SOLID desktop apps and occasionally pretend WPF and MAUI aren’t delightfully opinionated. I’m learning React to keep one foot in the modern web. Pathfinder 2e beats 5e, and I will defend that statement with spreadsheets.
+<!-- TODO: add a header image under the assets folder ![header](assets/header.png) -->
+
+ann arbor, mi
+let's build something clever. or artsy. ooooh, or both!
+
+## about me
+
+<details>
+<summary>the fun stuff</summary>
+  
+- pathfinder 2e rules nerd, but not a GM.  
+- being a cat dad is the best way to make pull requests interesting.  
+- gaymer — I value queer representation in games and the communities that build around them.  
+- secret future: coven initiate.
+
+</details>
 
 <details>
 <summary>what I build</summary>
-
-- Desktop-first business and hobby apps (WPF / MAUI)
-- Robust backend services and T-SQL-heavy data work
-- Game tools and hobbyist tooling for TTRPG communities
-- Developer-focused utilities that save time and headaches
+  
+- desktop-first business and hobby apps (WPF / MAUI)
+- robust backend services and T-SQL-heavy data work
+- game tools and hobbyist tooling for TTRPG communities
+- developer-focused utilities that save time and headaches
 
 </details>
 
@@ -41,6 +53,20 @@ I’m a software engineer with roots in C++ game development and a long career i
 
 ---
 
+<!-- TODO: ## Now playing (updated daily) -->
+<!-- START_NOW_PLAYING -->
+<!-- _This section is automatically updated by GitHub Actions. Add LASTFM_API_KEY and LASTFM_USER to the repository secrets to enable now-playing updates._ -->
+<!-- END_NOW_PLAYING -->
+
+## github stats
+### badges
+[![GitHub followers](https://img.shields.io/github/followers/tacitfirefox?label=Follow&style=flat-square)](https://github.com/tacitfirefox?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=tacitfirefox&style=flat-square)](https://github.com/tacitfirefox)
+### cards
+![tacitfirefox's GitHub stats](https://github-readme-stats.vercel.app/api?username=tacitfirefox&show_icons=true&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tacitfirefox&layout=compact&theme=radical)
+
+
 ## favorite projects
 Here are a couple of projects I follow and respect — big inspirations for tooling and community work:
 
@@ -51,14 +77,5 @@ Here are a couple of projects I follow and respect — big inspirations for tool
 All contact happens on GitHub: open an issue, start a discussion, or submit a PR and I’ll respond.  
 Bring snacks to meetings — clear issue descriptions help too.
 
-## github stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tacitfirefox&show_icons=true&theme=synthwave)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tacitfirefox&layout=compact&theme=synthwave)
-
----
-
-## fun facts
-- Pathfinder 2e rules nerd, but not a GM.  
-- Being a cat dad is the best way to make pull requests interesting.  
-- Gaymer — I value queer representation in games and the communities that build around them.  
-- Secret future: coven initiate.
+<!-- updated: 2025-10-28T00:00:00Z -->
+<!-- /updated -->
