@@ -3,7 +3,7 @@
 <!-- TODO: add a header image under the assets folder ![header](assets/header.png) -->
 
 ann arbor, mi
-let's build something clever. or artsy. ooooh, or both!
+let's build something clever. or artsy. ooh, or both!
 
 ## about me
 
